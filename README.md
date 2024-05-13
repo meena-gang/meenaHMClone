@@ -23,11 +23,11 @@ Tech Stacks
 Frontend:
 reactjs redux chakra-ui javascript restAPI css3 html5
 
-Deployed On:
-vercel cyclic
+Deployed On: Netlify
+https://meenahmclone.netlify.app/
 
 Want to see live preview ?
-Demo Video »
+Demo Video » https://drive.google.com/file/d/1v3yh_ANg9bKDI42o18eMSa8GLaTjwPCI/view?usp=sharing
 
 
 ✧ Getting Started ✧
