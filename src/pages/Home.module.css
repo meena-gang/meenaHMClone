@@ -1,0 +1,32 @@
+.category_box,
+.new_arrivals {
+  width: 100%;
+  margin: auto;
+}
+.new_arrivals_category {
+  display: flex;
+  font-size: 17px;
+  margin-top: 20px;
+  flex-wrap: wrap;
+}
+.new_arrivals_category > {
+  margin-bottom: 10px;
+}
+.new_arrivals_slider {
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+@media all and (min-width: 640px) and (max-width: 1024px) {
+  .category_box
+   {
+    width: 90%;
+    margin: auto;
+  }
+}
+@media all and (min-width: 324px) and (max-width: 640px) {
+  .category_box {
+    width: 80%;
+    margin: auto;
+  }
+}

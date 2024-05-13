@@ -1,0 +1,7 @@
+.nav_drop_down {
+    display: flex;
+    gap: 20px;
+    width: 100%;
+    background-color: antiquewhite;
+    padding: 5px;
+  }
